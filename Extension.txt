@@ -1,0 +1,19 @@
+Extension Flutter เพื่อให้มีชีวิตรอด555
+Ultimate Flutter Extension Pack
+*error lens ช่วยบอก error ของแต่ละบรรทัด
+Github Copilot *AI ช่วย autocode ได้ถ้ามืดแปดด้าน
+ 
+1.Image show and Image grid
+https://docs.flutter.dev/ui/layout#examples-gridview
+https://docs.flutter.dev/cookbook/images/network-image
+ 
+2.Form Validation
+https://docs.flutter.dev/cookbook/forms/validation
+Form คู่กับ _formKey เสมอ
+Controller ไว้กำหนดกับแต่ละ input
+ 
+3.Navigation
+https://docs.flutter.dev/cookbook/navigation/returning-data
+จะมี pushNamed กับ push เฉย ๆ
+ถ้า pushNamed ต้องกำหนด route(path) ให้มัน
+ถ้า push เฉย ๆ จะส่ง page เข้าไปเลย
